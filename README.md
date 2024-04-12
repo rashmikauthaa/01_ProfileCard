@@ -1,11 +1,10 @@
 # 01_ProfileCard
+Dive into my first HTML, CSS project
 
-Jumping into my debut HTML/CSS project!
+Here is my first project, thought I could do it easily but ended up copying the source code,
+Later realised this is what it is,
+Listened a bhojpuri song enegry level top notch!! 🎵💃
 
-Behold, my first attempt: initially confident, but ended up resorting to copying the source code. 🤷‍♂️ Later, it dawned on me: this is all part of the learning journey.
+Still copied the last segment of CSS.
 
-Cue the Bhojpuri song for some energy boost! 🎵💃
-
-Admittedly, I may have 'borrowed' a snippet of CSS at the end. 😉
-
-Here's to fresh starts and brighter tomorrows! 🌟
+Here's to fresh starts and brighter tomorrows!🌟
